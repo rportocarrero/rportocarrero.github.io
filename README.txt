@@ -1,4 +1,4 @@
-This is a portfolio website that is based off of
+This is a portfolio website that is based off of the following template
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
